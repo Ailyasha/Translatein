@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968521370681",
+    "project_id": "translatein-app",
+    "storage_bucket": "translatein-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968521370681:android:78d2310153e50daae591e8",
+        "android_client_info": {
+          "package_name": "com.ailyasha.translatein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968521370681-d65oej439khftcco1ub89pqura4gq1sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaplB8G7ZALVcdx9LAeVCNKI2TIfTie8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968521370681-d65oej439khftcco1ub89pqura4gq1sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
